@@ -6,3 +6,4 @@ coucou les copines
 salut
 >>>>>>> Stashed changes
 changements
+eeeee
