@@ -7,4 +7,8 @@ salut
 >>>>>>> Stashed changes
 changements
 eeeee
+<<<<<<< HEAD
 chacha !!!!!
+=======
+
+
